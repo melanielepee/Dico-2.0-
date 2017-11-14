@@ -1,0 +1,17 @@
+body {
+  background-image: url("Aquicon-Github.png");
+  background-repeat: no-repeat;
+  margin: 10px 30px 10px 30px;
+  font-family: monospace;
+  color: #6C6969;
+  font-size: 14pt;
+}
+b {
+  color: #689287;
+}
+section {
+  margin-left: 50px;
+}
+article {
+  margin-left: 25px;
+}
